@@ -1,4 +1,4 @@
-# \<aspen-security-mixin\>
+# <aspen-security-mixin\>
 
 This mixin is used to determine if the user has admin privileges
 

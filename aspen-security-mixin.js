@@ -23,8 +23,6 @@ export const AspenSecurityMixin = (superclass) => class extends superclass {
         };
     }
 
-
-
     /** 
      * This method determines if the user is an administrator.
      * @param user The user profile object from the firebase database.
